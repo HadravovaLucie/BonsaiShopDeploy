@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BonsaiShopDeploy/static/css/main.230e7463.chunk.css",
+    "main.js": "/BonsaiShopDeploy/static/js/main.836a660f.chunk.js",
+    "main.js.map": "/BonsaiShopDeploy/static/js/main.836a660f.chunk.js.map",
+    "runtime-main.js": "/BonsaiShopDeploy/static/js/runtime-main.78052213.js",
+    "runtime-main.js.map": "/BonsaiShopDeploy/static/js/runtime-main.78052213.js.map",
+    "static/css/2.b718501d.chunk.css": "/BonsaiShopDeploy/static/css/2.b718501d.chunk.css",
+    "static/js/2.6f088098.chunk.js": "/BonsaiShopDeploy/static/js/2.6f088098.chunk.js",
+    "static/js/2.6f088098.chunk.js.map": "/BonsaiShopDeploy/static/js/2.6f088098.chunk.js.map",
+    "index.html": "/BonsaiShopDeploy/index.html",
+    "static/css/2.b718501d.chunk.css.map": "/BonsaiShopDeploy/static/css/2.b718501d.chunk.css.map",
+    "static/css/main.230e7463.chunk.css.map": "/BonsaiShopDeploy/static/css/main.230e7463.chunk.css.map",
+    "static/js/2.6f088098.chunk.js.LICENSE.txt": "/BonsaiShopDeploy/static/js/2.6f088098.chunk.js.LICENSE.txt",
+    "static/media/logo3.e80edf17.png": "/BonsaiShopDeploy/static/media/logo3.e80edf17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78052213.js",
+    "static/css/2.b718501d.chunk.css",
+    "static/js/2.6f088098.chunk.js",
+    "static/css/main.230e7463.chunk.css",
+    "static/js/main.836a660f.chunk.js"
+  ]
+}
